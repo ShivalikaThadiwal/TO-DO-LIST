@@ -19,14 +19,6 @@ This project allows users to add tasks, mark them as completed, and delete them 
 - CSS3
 - JavaScript (Vanilla)
 
-## 📷 Screenshots
-
-### Desktop View
-![Desktop Screenshot](readme-images/desktop.png)
-
-### Mobile View
-![Mobile Screenshot](readme-images/mobile.png)
-
 ## 📂 Project Structure
 
 ```text
